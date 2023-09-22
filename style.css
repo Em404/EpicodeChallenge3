@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Prata&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container-oceano {
+    height: 500px;
+    background-image: url(https://www.chicksandtrips.net/wp-content/uploads/2017/03/slider-oceanografico-di-valencia.jpg);
+}
+
+.image-container-museo {
+    height: 500px;
+    background-image: url(https://merigrei.com/wp-content/uploads/2020/12/valencia-citta-delle-arti-e-delle-scienze.jpeg);
+}
+
+.image-container-mercato {
+    height: 500px;
+    background-image: url(https://www.spain.info/.content/imagenes/cabeceras-grandes/valencia/mercado-central-valencia-t4600758.jpg);
+}
+
+.image-container-hemisferic {
+    height: 500px;
+    background-image: url(https://www.visitvalencia.com/sites/default/files/styles/gallery_default/public/media/media-images/images/hemisferic_0.jpg?itok=8hsWaReh);
+}
+
+.image-container-bioparco {
+    height: 500px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d1/Bioparc_-_Parque_de_la_Cabecera.jpg);
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    background: linear-gradient(120deg, blue, white);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color: blue;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 16px;
+    color: white;
+}
